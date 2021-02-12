@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Libros>
+    <Libro fecha_publi = "1840">
+        <Titulo>El capote</Titulo>
+        <Autor>Nikolai Gogol</Autor> 
+    </Libro>
+    <Libro fecha_publi = "2008">
+        <Titulo>El sanador de caballos</Titulo>
+        <Autor>Gonzalo Giner</Autor> 
+    </Libro>
+    <Libro fecha_publi = "1981">
+        <Titulo>El nombre de la rosa</Titulo>
+        <Autor>Umberto Eco</Autor> 
+    </Libro>
+</Libros>
